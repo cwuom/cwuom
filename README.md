@@ -24,7 +24,7 @@ WeChat
 > cwuomcwuom00
 
 telegram 
-[https://t.me/cwuom](https://t.me/cwuom "cwuom")
+[https://t.me/cwuom](cwuom)
 
 ## 我会些啥？
 因为还是学生，所以没有太多精力投入到此
@@ -37,6 +37,7 @@ telegram
 > c(\* ˃ ◡˂ )
 
 下面的小卡片是我会的或可灵活运用的
+----
 ![](https://img.shields.io/badge/Python-PyCharm-green)
 
 ![](https://img.shields.io/badge/Java-idea-yellowgreen)
@@ -46,7 +47,7 @@ telegram
 ![](https://img.shields.io/badge/c++-vs-green)
 
 # 我的视频在哪里？
-忘了说，我还有一个[](https://b23.tv/OK14fzT "B 站账户")，这里会分享我的日常和学习成果，欢迎大家关注我！
+忘了说，我还有一个[B 站账户](https://b23.tv/OK14fzT)，这里会分享我的日常和学习成果，欢迎大家关注我！
 
 ![](https://stats.justsong.cn/api/bilibili/?id=473400804)
 ---- 
