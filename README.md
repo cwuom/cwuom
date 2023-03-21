@@ -7,16 +7,15 @@
 
 ## 如何联系我？
 你可以通过电子邮件来联系我
+
 目前常用的邮箱是网易邮箱
----- 
-这里是我的邮箱地址
 > cwuomcwuom@163.com
 > cwuomcwuom@outlook.com
 > cwuomcwuom@gmail.com
 
 或者
+
 你可以通过我的社交账号来联系我
----- 
 QQ
 > 2594748568
 
@@ -24,7 +23,7 @@ WeChat
 > cwuomcwuom00
 
 telegram 
-[cwuom]([m](https://t.me/cwuom))
+[cwuom](https://t.me/cwuom)
 
 ## 我会些啥？
 因为还是学生，所以没有太多精力投入到此
