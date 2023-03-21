@@ -6,16 +6,10 @@
 在网络中你可以直接叫我的昵称
 
 ## 如何联系我？
-你可以通过电子邮件来联系我
-
 目前常用的邮箱是网易邮箱
 > cwuomcwuom@163.com
 > cwuomcwuom@outlook.com
 > cwuomcwuom@gmail.com
-
-或者
-
-你可以通过我的社交账号来联系我
 
 ----
 QQ
