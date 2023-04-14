@@ -1,6 +1,6 @@
 [![cwuom's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwuom)](https://github.com/anuraghazra/github-readme-stats) ![cwuom's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cwuom&layout=compact&hide_border=true&langs_count=10)
 
-# Hello, I am cwom!
+# Hello, I am cwuom!
 在我很小的时候在上海长大，因为学业问题现居浙江绍兴，时常也会去上海住上几个月
 
 在网络中你可以直接叫我的昵称
