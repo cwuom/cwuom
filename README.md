@@ -17,9 +17,6 @@
 QQ
 > 2594748568
 
-WeChat
-> cwuomcwuom00
-
 telegram 
 [cwuom](https://t.me/cwuom)
 
