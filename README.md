@@ -17,8 +17,8 @@
 QQ
 > 2594748568
 
-telegram group
-[cwuom](https://t.me/+JcTXQXYosv82NjE1)
+
+[telegram group](https://t.me/+JcTXQXYosv82NjE1)
 
 ## 我会些啥？
 因为还是学生，所以没有太多精力投入到此
