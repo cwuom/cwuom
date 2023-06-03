@@ -3,7 +3,7 @@
 
 # Groups
 ### Telegram
-[cwuom's chatroom](https://github.com/cwuom/GetDanmuSender/archive/refs/heads/main.zip)
+[cwuom's chatroom](https://t.me/cwuoms_group)
 ### QQ
 > 893018099
 
