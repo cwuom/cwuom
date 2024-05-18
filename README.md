@@ -7,7 +7,10 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwuom&layout=compact)
 <br>
-![:id](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
+<br>
+
+![:cwuom](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
+
 
 </div>
 
