@@ -3,10 +3,9 @@
 ### ヾ(•ω•`)o 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwuom)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwuom&layout=compact)
-<br>
+![Top Languages](./profile/top-langs.svg)
 <br>
 
 ![:cwuom](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
