@@ -1,4 +1,4 @@
-Name: Update README cards
+name: Update README cards
 
 on:
   push:
