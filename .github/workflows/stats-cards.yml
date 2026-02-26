@@ -1,10 +1,11 @@
-name: Update README cards
+Name: Update README cards
 
 on:
   push:
     branches:
       - main
       - master
+  workflow_dispatch:
 
 jobs:
   build:
@@ -43,4 +44,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-          
