@@ -3,9 +3,9 @@
 ### ヾ(•ω•`)o 👋
 
 
-![Stats](https://raw.githubusercontent.com/cwuom/cwuom/refs/heads/main/profile/stats.svg)
+![Stats](https://raw.githubusercontent.com/cwuom/cwuom/2ac895e6833ef7fe95c1b53421e5d60b6b223d20/profile/stats.svg)
 <br>
-![Top Languages](https://raw.githubusercontent.com/cwuom/cwuom/refs/heads/main/profile/top-langs.svg)
+![Top Languages](https://raw.githubusercontent.com/cwuom/cwuom/2ac895e6833ef7fe95c1b53421e5d60b6b223d20/profile/top-langs.svg)
 <br>
 
 ![:cwuom](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
