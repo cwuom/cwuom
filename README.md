@@ -3,7 +3,7 @@
 ### ヾ(•ω•`)o 👋
 
 
-![Stats](https://raw.githubusercontent.com/cwuom/cwuom/dcde40730559ba9e0840d7155dc90ee3960773c9/profile/stats.svg)
+![Stats](https://raw.githubusercontent.com/cwuom/cwuom/4dd1260b121e987ce817eab440fd3441515e710b/profile/stats.svg)
 <br>
 ![Top Languages](https://raw.githubusercontent.com/cwuom/cwuom/7fe031312f88646a0b9bbb33e8895eeaf92c5e6a/profile/top-langs.svg)
 <br>
