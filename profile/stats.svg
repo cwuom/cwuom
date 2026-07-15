@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">INTENTION's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 3907, Total Commits  (last year) : 2055, Total PRs: 20, Total Issues: 9, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3938, Total Commits  (last year) : 2208, Total PRs: 23, Total Issues: 9, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.6143810307308;
+        stroke-dashoffset: 74.60824981631157;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >2.1k</text>
+      >2.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >20</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
