@@ -5,8 +5,6 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwuom&theme=github)
 <br>
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cwuom&theme=github)
-<br>
 
 ![:cwuom](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
 
