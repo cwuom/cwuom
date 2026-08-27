@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[<img src="https://ghfind.com/api/card/cwuom?theme=dark&variant=path" alt="GitHub Roast" width="500" />](https://ghfind.com/u/cwuom?ref=badge)
+[<img src="https://ghfind.com/api/card/cwuom?theme=light&variant=path" alt="GitHub Roast" width="500" />](https://ghfind.com/u/cwuom?ref=badge)
 <br>
 <br>
 <br>
